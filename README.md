@@ -39,5 +39,5 @@ A mobile application project focused on user interface design and feature implem
 
 ## Connect with Me
 
-* LinkedIn: ABEDELMONIM EL-QORAYCHY
+* LinkedIn: www.linkedin.com/in/abdelmonim-el-qoraychy
 * Email: monimelqoraychy@gmail.com
